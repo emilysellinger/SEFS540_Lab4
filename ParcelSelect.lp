@@ -86,7 +86,7 @@ Subject To
    + 26763 parcel[112] + 68715 parcel[113] + 416481 parcel[114]
    + 40642 parcel[115] + 100080 parcel[116] + 74920 parcel[117]
    + 70705 parcel[118] + 20598 parcel[119] + 309145 parcel[120] <= 1e+06
- corep: parcel[23] = 1
+ core_p: parcel[23] = 1
  no_flow2: - parcel[2] + flow[51,2] <= 0
  no_flow3: - 3 parcel[3] + flow[50,3] + flow[55,3] + flow[60,3] <= 0
  no_flow4: - 3 parcel[4] + flow[5,4] + flow[6,4] + flow[48,4] <= 0
